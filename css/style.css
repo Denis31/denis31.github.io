@@ -688,7 +688,7 @@ Blog
 }
 .post-content .simple-button {
     float:none;
-    display:inline-block;
+    display:centers;
 }
 .post-content .simple-button:hover {
     border-color:#E02217;
